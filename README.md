@@ -18,7 +18,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-![](./screenshot.jpg)
+![desktop output](https://github.com/okedo01/First-Frontend-Mentor-Project/assets/142419109/d8a0311a-3593-4f2c-90ab-3a66b5d5987d)
 
 ### Links
 - Solution URL:[Solution Link](https://github.com/okedo01/First-Frontend-Mentor-Project)
