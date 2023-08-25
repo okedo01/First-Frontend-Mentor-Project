@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/okedo01/First-Frontend-Mentor-Project]
+- Solution URL:[https://github.com/okedo01/First-Frontend-Mentor-Project]
 - Live Site URL: []
 
 ## My process
