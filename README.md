@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:[https://github.com/okedo01/First-Frontend-Mentor-Project]
-- Live Site URL: []
+- Solution URL:[Solution Link](https://github.com/okedo01/First-Frontend-Mentor-Project)
+- Live Site URL: [Live Site Link](https://four-cards-soln.netlify.app)
 
 ## My process
 
@@ -48,24 +48,11 @@ Users should be able to:
 ### What I learned
 HTML & CSS are basics for a web developer
 
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-
-
 ### Continued development
-
 increasing my skills to become perfect web developer
 
-
 ## Author
-
-
-- Frontend Mentor - [@okedo01](https://www.frontendmentor.io/profile/okedo01)
-
-
+- Frontend Mentor - [My Frontend Mentor Project](https://www.frontendmentor.io/profile/okedo01)
 
 ## Acknowledgments
 given some changes and code review by @https://github.com/AlbertSigsbert, much appriciations
